@@ -1,0 +1,21 @@
+Name of Quantlet: Pre-Processing for ensemble training
+
+Published in: Paper
+
+Description: The predictive scores created using ML algos are compiled in one data frame. A correlation check is performed to remove highly correlated scores.
+
+Keywords: merging, correlation, multic-collinearity correction.
+
+See also: for listing related, similar Quantlets or Github code from your point of view - delete if not used
+
+Author: Shikhar Srivastava
+
+Submitted:  SHOULD NOT BE EMPTY
+
+Datafile: german.data
+
+Input: (optional - delete if not used)
+
+Output:  (optional - delete if not used)
+
+Example: (optional - delete if not used)
